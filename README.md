@@ -23,7 +23,7 @@ It helps job seekers evaluate how well their resume matches a given job descript
 
 ## 🛠 Tech Stack
 - **Backend:** Flask (Python)
-- **Frontend:** HTML, Bootstrap
+- **Frontend:** HTML, TailwindCss
 - **NLP Model:** KeyBERT, Sentence-Transformers
 - **PDF Parsing:** pdfminer.six
 
